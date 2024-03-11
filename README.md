@@ -1,1 +1,1 @@
-# snake
+# Snake is a classic arcade game where the player controls a snake by controlling its direction. The goal of the game is to collect dots so that the snake can grow. However, you need to avoid collisions with the boundaries of the screen and yourself. With each piece eaten, the snake gets longer and the speed also increases, complicating control and increasing the risk of collision. The game ends when the snake collides with itself.
